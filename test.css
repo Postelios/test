@@ -1,4 +1,6 @@
-
+@page{
+    size: a4;
+}
 
 .test {
     width : 100%;
